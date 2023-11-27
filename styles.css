@@ -1,0 +1,40 @@
+body {
+    font-family: "Roboto Mono", monospace;
+    text-align: center;
+    background-color: #000000;
+    background-color: #000000;
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+    height: 100vh;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .page-title {
+    color: #045b83b4;
+  }
+
+  .boneco-img img {
+    width: 130px;
+    padding-right: 16em;
+
+}
+
+.logo-mentalista img {
+    max-height: 500px;
+    width: 500px;
+}
+  
+  .page-subtitle {
+    color: #ffffff;
+    margin-top: 5px;
+  }
+    
+  body > img {
+    margin: 0 10px;
+  }
+  
